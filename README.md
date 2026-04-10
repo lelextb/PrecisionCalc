@@ -38,9 +38,9 @@
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="https://via.placeholder.com/270x600/1E2A36/FFFFFF?text=Main+Screen" width="270" alt="Main Screen" />
-  <img src="https://via.placeholder.com/270x600/1E2A36/FFFFFF?text=Scientific+Panel" width="270" alt="Scientific Panel" />
-  <img src="https://via.placeholder.com/270x600/1E2A36/FFFFFF?text=History+Screen" width="270" alt="History Screen" />
+  <img width="575" height="1280" alt="Main Calculator Screen" src="https://github.com/user-attachments/assets/ad52c910-6fa4-48e0-96c9-63bb961b716a" />
+  <img width="575" height="1280" alt="Scientific Panel Expanded" src="https://github.com/user-attachments/assets/c8982f03-51f8-42fb-9220-de11fcc7e218" />
+  <img width="575" height="1280" alt="Calculation History" src="https://github.com/user-attachments/assets/ef0c5012-0e61-46ab-96ab-9fca771f069c" />
 </div>
 
 ---
