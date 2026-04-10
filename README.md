@@ -86,7 +86,7 @@ graph TD
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/PrecisionCalc.git
+    git clone https://github.com/lelextb/PrecisionCalc.git
     cd PrecisionCalc
     ```
 
